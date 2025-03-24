@@ -1,2 +1,2 @@
-hi , this is my first project at scoole aboute people management .
-with events add and delet and mod and import and save 
+hi , this is my first project at school aboute people management .
+with events add and delete and mod , and import and save in txt files 
